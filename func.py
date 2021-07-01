@@ -3,3 +3,5 @@ def func():
 	pass
 func()
 
+def go():
+	pass
