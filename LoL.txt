@@ -5,4 +5,9 @@ def Func2 :
 	pass
 
 def Func5 :
+	
+def Func2:
+	pass
+
+def Func3:
 	pass
