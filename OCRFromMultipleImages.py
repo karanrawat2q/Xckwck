@@ -1,3 +1,4 @@
+# Using tesseract extacting text from multiple images in a folder 
 import os
 import glob
 
